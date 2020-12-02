@@ -1,5 +1,8 @@
 # Reviewer's guidelines
 
+
+Dit moet anders
+
 We have some technical debt that is continuously being refactored.
 However, it's possible that someone is getting inspired by wrong pattern that still lays in the codebase.
 In such case the reviewer might not be aware of _The Right Way_ and approves the changes.
